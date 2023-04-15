@@ -79,6 +79,6 @@ struct ui_timeApp: App {
 ```
 
 ## On the next version:
-- [ ] Align timer to the left.
-- [ ] Make an app icon.
+- [ ] Align timer text `mm:ss` by the separator `:`
 - [ ] Sync the timer to the system time.
+- [ ] Make an app icon.
