@@ -1,5 +1,7 @@
 # ui-time: 15 minutes of uninterrupted time
 
+![demo](https://user-images.githubusercontent.com/93939472/232224559-2a08e4d1-f89b-4e85-8f69-f7f54eb3a0d6.gif)
+
 [ui-time.app.zip](https://github.com/star-bits/ui-time/blob/main/ui-time.app.zip)
 
 - This SwiftUI application displays a 15-minute countdown timer in the macOS menu bar.
@@ -79,6 +81,6 @@ struct ui_timeApp: App {
 ```
 
 ## On the next version:
-- [ ] Align timer text `mm:ss` by the separator `:`
+- [ ] Align the timer text `mm:ss` using the separator `:`
 - [ ] Sync the timer to the system time.
 - [ ] Make an app icon.
