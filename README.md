@@ -4,6 +4,7 @@
 
 [Download ui-time.app.zip (21 KB)](https://github.com/star-bits/ui-time/files/11239541/ui-time.app.zip)
 
+- Challenge yourself to focus on the task at hand for 15 minutes!
 - This SwiftUI application displays a 15-minute countdown timer in the macOS menu bar.
 - The user can reset the timer to 15 minutes by clicking "Another round of uninterrupted time!" or quit the app using the "Quit" button.
 
