@@ -2,7 +2,7 @@
 
 ![demo](https://user-images.githubusercontent.com/93939472/232224559-2a08e4d1-f89b-4e85-8f69-f7f54eb3a0d6.gif)
 
-[ui-time.app.zip](https://github.com/star-bits/ui-time/blob/main/ui-time.app.zip)
+[ui-time.app.zip](https://github.com/star-bits/ui-time/files/11239541/ui-time.app.zip)
 
 - This SwiftUI application displays a 15-minute countdown timer in the macOS menu bar.
 - The user can reset the timer to 15 minutes by clicking "Another round of uninterrupted time!" or quit the app using the "Quit" button.
